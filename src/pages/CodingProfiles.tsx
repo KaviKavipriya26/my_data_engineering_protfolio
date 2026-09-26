@@ -31,16 +31,16 @@ const CodingProfiles = () => {
       link: "https://www.hackerrank.com/profile/kavipriyak262005"
     },
     {
-      platform: "Kaggle (Competitions/Notebooks)",
-      username: "kavipriya",
+      platform: "GeeksForGeeks",
+      username: "kavipriyauh3x",
       stats: {
-        notebooks: "Active",
-        competitions: "Active",
-        streak: "10+ days"
+        score: "Active",
+        problemsSolved: "Active",
+        streak: "5+ days"
       },
-      color: "from-blue-500 to-cyan-500",
+      color: "from-green-500 to-emerald-500",
       icon: Target,
-      link: "https://www.kaggle.com/kavipriya"
+      link: "https://www.geeksforgeeks.org/profile/kavipriyauh3x?tab=activity"
     }
   ];
 

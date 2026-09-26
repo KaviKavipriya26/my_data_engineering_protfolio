@@ -7,8 +7,8 @@ const contactMethods = [
   {
     id: "linkedin",
     label: "LINKEDIN",
-    value: "linkedin.com/in/kavipriya",
-    href: "https://linkedin.com/in/kavipriya",
+    value: "linkedin.com/in/kavipriya-kaliyappan26",
+    href: "https://www.linkedin.com/in/kavipriya-kaliyappan26/",
     icon: Linkedin,
   },
   {
@@ -28,17 +28,11 @@ const contactMethods = [
   {
     id: "phone",
     label: "MOBILE",
-    value: "+91 98765 43210", // Feel free to update with real phone number
-    href: "tel:+919876543210",
+    value: "+91 8438842076",
+    href: "tel:+918438842076",
     icon: Phone,
   },
-  {
-    id: "kaggle",
-    label: "KAGGLE",
-    value: "kaggle.com/kavipriya",
-    href: "https://kaggle.com/kavipriya",
-    icon: Code2,
-  },
+
   {
     id: "resume",
     label: "RESUME",

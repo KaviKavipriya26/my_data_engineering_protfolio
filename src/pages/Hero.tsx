@@ -13,9 +13,9 @@ import profileImg from "@/assets/profile.jpg";
 
 const socials = [
   { icon: Github, href: "https://github.com/", label: "GitHub" },
-  { icon: Linkedin, href: "https://linkedin.com/", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/kavipriya-kaliyappan26/", label: "LinkedIn" },
   { icon: Mail, href: "https://mail.google.com/mail/?view=cm&fs=1&to=kavipriyak262005@gmail.com", label: "Email" },
-  { icon: Database, href: "https://www.kaggle.com/", label: "Kaggle" },
+
 ];
 
 const roles = [
