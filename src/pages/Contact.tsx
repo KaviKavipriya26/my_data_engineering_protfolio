@@ -37,7 +37,7 @@ const contactMethods = [
     id: "resume",
     label: "RESUME",
     value: "Download My Resume",
-    href: "/resume.pdf",
+    href: "/Kavipriya_K_Data_Engineer_Resume.pdf",
     icon: FileText,
   }
 ];

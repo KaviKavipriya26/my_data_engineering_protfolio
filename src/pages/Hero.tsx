@@ -132,8 +132,8 @@ const Hero = () => {
                   <Button
                     onClick={() => {
                       const link = document.createElement("a");
-                      link.href = "/Kavipriya_K_Software_Developer_Resume.pdf";
-                      link.download = "Kavipriya_K_Software_Developer_Resume.pdf";
+                      link.href = "/Kavipriya_K_Data_Engineer_Resume.pdf";
+                      link.download = "Kavipriya_K_Data_Engineer_Resume.pdf";
                       link.click();
                     }}
                     className="group w-full sm:w-[170px] h-[48px] bg-gradient-to-r from-blue-500 to-purple-500 hover:from-blue-600 hover:to-purple-600 text-white font-medium rounded-full transition-all duration-300 hover:scale-105 shadow-lg shadow-blue-500/25 border-0"
