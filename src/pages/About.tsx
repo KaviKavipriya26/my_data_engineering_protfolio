@@ -155,7 +155,7 @@ const About = () => {
               Professional Summary
             </h2>
             <p className="text-slate-300 leading-relaxed text-[16px]">
-              I'm a Data Engineer with <span className="text-blue-400 font-medium">11 months of professional experience</span> working with
+              I'm a Data Engineer with <span className="text-blue-400 font-medium">1 year of professional experience</span> working with
               Python, SQL, PySpark, MySQL, MongoDB, Hadoop, Hive, and AWS S3.
               I have experience working with data processing, ETL workflows, SQL queries, aggregation pipelines,
               data transformation, and REST API integration. Currently, I'm seeking opportunities as a{" "}
